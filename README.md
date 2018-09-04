@@ -6,8 +6,8 @@
 ### 修养篇
 - [程序员修养](https://github.com/hekai000/TobeAbetterProgrammer/tree/master/ch03-%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E5%85%BB.md)
 ### 专业基础篇
-- [编程语言](https://github.com/hekai000/TobeAbetterProgrammer/tree/master/ch04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/编程语言.md)
-- [理论学科](https://github.com/hekai000/TobeAbetterProgrammer/tree/master/ch04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80/%E7%90%86%E8%AE%BA%E5%AD%A6%E7%A7%91/理论学科.md)
+- [编程语言](https://github.com/hekai000/TobeAbetterProgrammer/tree/master/ch04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80/%E7%BC%AD%E8%A8%80/编程语言.md)
+- [理论学科](https://github.com/hekai000/TobeAbetterProgrammer/blob/master/ch04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80/%E7%90%86%E8%AE%BA%E5%AD%A6%E7%A7%91/%E7%90%86%E8%AE%BA%E5%AD%A6%E7%A7%91.md)
 - [系统知识](https://github.com/hekai000/TobeAbetterProgrammer/tree/master/ch04-%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80/%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86/系统知识.md)
 ### 软件设计篇
 - [软件设计](https://github.com/hekai000/TobeAbetterProgrammer/tree/master/ch05-%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/软件设计.md)
